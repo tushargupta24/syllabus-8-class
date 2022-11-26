@@ -1,0 +1,194 @@
+{
+    "syllabus-8":[
+        {
+          "id": 1,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Initial Page",
+          "download": "assets/images/notes-8/syllabus-8/initial-page.pdf",
+          "view": "assets/images/notes-8/syllabus-8/initial-page.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 2,
+          "subject": "syllabus",
+          "image": "syllabus",
+          "description": "syllabus - Class-8, English Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/english-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/english-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 3,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Hindi Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/hindi-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/hindi-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 4,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Maths English medium Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/maths-english-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/maths-english-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 5,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Maths English medium Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/maths-hindi-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/maths-hindi-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 6,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Science Hindi medium Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/science-hindi-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/science-hindi-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 7,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Science English medium Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/science-english-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/science-english-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 8,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Sanskrit Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/sanskrit-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/sanskrit-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 9,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Social science Hindi Medium Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/sst-hindi-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/sst-hindi-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+          "id": 10,
+          "subject": "syllabus Level-1",
+          "image": "syllabus Level-1",
+          "description": "syllabus - Class-8, Social science  English Medium Syllabus Level-1",
+          "download": "assets/images/notes-8/syllabus-8/sst-english-syllabus-8-l-1.pdf",
+          "view": "assets/images/notes-8/syllabus-8/sst-english-syllabus-8-l-1.pdf",
+          "author": "Tushar",
+          "class": "class-8"
+        },
+        {
+            "id": 11,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, English Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/english-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/english-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 12,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Hindi Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/hindi-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/hindi-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 13,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Maths English medium Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/maths-english-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/maths-english-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 14,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Maths English medium Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/maths-hindi-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/maths-hindi-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 15,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Science Hindi medium Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/science-hindi-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/science-hindi-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 16,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Science English medium Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/science-english-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/science-english-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 17,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Sanskrit Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/sanskrit-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/sanskrit-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 18,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Social science Hindi Medium Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/sst-hindi-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/sst-hindi-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          },
+          {
+            "id": 19,
+            "subject": "syllabus",
+            "image": "syllabus",
+            "description": "syllabus - Class-8, Social science  English Medium Syllabus Level-2",
+            "download": "assets/images/notes-8/syllabus-8/sst-english-syllabus-8-l-2.pdf",
+            "view": "assets/images/notes-8/syllabus-8/sst-english-syllabus-8-l-2.pdf",
+            "author": "Tushar",
+            "class": "class-8"
+          }
+      ]
+    }
